@@ -1,21 +1,26 @@
 body{
     text-align: center;
+    background-color: black;
 }
 h1{
     font-size: 70px;
+    color: red;
 }
 h2{
-    color: blue;
     font-size: 50px;
+    color: purple;
 }
 img {
     border: 1px solid black;
-    height: 500px;
-    width: 700px;
+    height: 600px;
+    width: 900px;
+    border: 2px solid white;
 }
 p{
     font-size: 35px;
+    color: blue;
 }
 time{
     font-size: 25px;
+    color: blue;
 }
