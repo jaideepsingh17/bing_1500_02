@@ -4,11 +4,11 @@ body{
 }
 h1{
     font-size: 70px;
-    color: red;
+    color: rgb(192, 19, 192);
 }
 h2{
     font-size: 50px;
-    color: purple;
+    color: blue;
 }
 img {
     border: 1px solid black;
@@ -16,11 +16,15 @@ img {
     width: 900px;
     border: 2px solid white;
 }
+a{
+    font-size: 40px;
+    color: purple;
+}
 p{
     font-size: 35px;
-    color: blue;
+    color: white;
 }
 time{
-    font-size: 25px;
-    color: blue;
+    font-size: 30px;
+    color: red;
 }
